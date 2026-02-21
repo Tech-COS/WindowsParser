@@ -1,0 +1,6 @@
+build
+winparse
+.vscode
+.cache
+compile_commands.json
+*.a
